@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<title>Bhanu Tokas</title>
+<style>
+    body{
+        background-image: url("Back.gif");
+        background-color: #cccccc;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #Text {
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color:aqua;
+    }
+</style>
+<body>
+<div id="Text">
+<H1>
+Hi! Nice to Meet You! 
+<br>
+<br>
+I am <b id="Role"></b>
+</H1>
+</div>
+<script type="text/javascript">
+    var names = ["Bhanu Tokas","a ML Developer","an Ethical Hacking Enthusiast","a Web Developer Amateur"]
+    function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+    async function type(){
+        while(1){
+            for (name in names){
+                for (var i = 0;i<names[name].length;i++){
+                    document.getElementById("Role").innerHTML += names[name].charAt(i);
+                    await sleep(200);
+                }
+                for (var i = 0;i<names[name].length;i++){
+                    document.getElementById("Role").innerHTML = document.getElementById("Role").innerHTML.slice(0,-1);
+                    await sleep(200);
+                }
+            }
+        }
+    }
+    type()
+</script>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="bhanu-tokas-1a822219b"><a class="LI-simple-link" href='https://in.linkedin.com/in/bhanu-tokas-1a822219b?trk=profile-badge'>Bhanu Tokas</a></div>
+</body>
+</html>
