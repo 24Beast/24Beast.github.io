@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Tempe, AZ, USA"
   employer         : "Arizona State University"
-  uri              : "You are already here!"# URL
+  uri              : # URL
   email            : "bhanu.tokas@asu.edu" 
 
   # Academic websites
