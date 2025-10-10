@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Arizona State University, 2028 (expected)
+* M.S. in Computer Science (Big Data Systems), Arizona State University, 2024
+* B.E. in Computer Engineering, Netaji Subhas Institute of Technology (now NSUT), 2018
 
 Work experience
 ======
+To be updated!!!
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
