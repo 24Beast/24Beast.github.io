@@ -3,7 +3,7 @@ title: "Classification Drives Geographic Bias in Street Scene Segmentation"
 collection: publications
 category: conferences
 permalink: 'https://asu.elsevierpure.com/en/publications/classification-drives-geographic-bias-in-street-scene-segmentatio/'
-excerpt: 'An analysis showing how classification decisions contribute to geographic biases in street scene segmentation models and recommendations to mitigate them.''
+excerpt: 'An analysis showing how classification decisions contribute to geographic biases in street scene segmentation models and recommendations to mitigate them.'
 date: 2025-01-01
 venue: 'CVPR'
 paperurl: ''
