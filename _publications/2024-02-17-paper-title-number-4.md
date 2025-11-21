@@ -10,4 +10,4 @@ paperurl: ''
 citation: 'Nair, R., Tokas, B., Tseng, G., Rolf, E., & Kerner, H. (2025). Classification Drives Geographic Bias in Street Scene Segmentation. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 629–638).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
