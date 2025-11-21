@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Arizona State University, 2028 (expected)
+* M.S. in Computer Science (Big Data Systems), Arizona State University, 2024
+* B.E. in Computer Engineering, Netaji Subhas Institute of Technology (now NSUT), 2018
 
-Work experience
+
+Research & Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Research Assistant**, Arizona State University — *May 2023 – Dec 2023*  
+  * Designed an automated QA/QC pipeline reducing noisy downstream data by ~90%.  
+  * Developed semantic segmentation models for crop phenotyping and benchmarked depth-estimation models in outdoor environments.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern**, Carnegie Mellon University (remote) — *Feb 2021 – Sep 2021*  
+  * Benchmarked image manipulation methods using latent-space perturbations.  
+  * Reduced training time by ~70% via efficient sampling strategies.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Other projects & competitions**  
+  * DARPA AI for Critical Mineral Assessment 2022 — 8th in map feature extraction challenge.  
+  * Smart India Hackathon 2020 — National winner (real-time eye-gaze correction for video conferencing).
+
+Teaching
+======
+* **Teaching Assistant**, CSE 475: Foundations of ML — *Fall 2024*  
+* **Teaching Assistant**, CSE 579: Intro to ML for Remote Sensing — *Spring 2024*  
+* **Grader**, CSE 475: Foundations of ML — *Fall 2023*  
+* **Grader**, CSE 572: Data Mining — *Spring 2023*
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages:** Python, C++  
+* **Machine Learning / Frameworks:** PyTorch, TensorFlow / Keras, Hugging Face, scikit-learn, OpenCV  
+* **Data & Analysis:** Pandas, NumPy, Matplotlib  
+* **Web / Tools:** Flask, Selenium  
+* **Systems & DevOps:** Git, Linux, Docker
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
