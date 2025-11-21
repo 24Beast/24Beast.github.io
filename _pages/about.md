@@ -20,22 +20,22 @@ My research interests include:
 
 News
 ========
-* **December 2025** — Paper *“DPA: A one-stop metric to measure bias amplification in classification datasets”* accepted to **NeurIPS 2025**.  
+* **December 2025** Paper *“DPA: A one-stop metric to measure bias amplification in classification datasets”* accepted to **NeurIPS 2025**.  
   Introduces a unified metric for measuring directional bias amplification.
 
-* **June 2025** — Paper *“Classification Drives Geographic Bias in Street Scene Segmentation”* accepted to the **CVPR 2025 Workshop**.  
+* **June 2025** Paper *“Classification Drives Geographic Bias in Street Scene Segmentation”* accepted to the **CVPR 2025 Workshop**.  
   Investigates how model classification steps can create geographic bias.
 
-* **May 2025** — Paper *“Helmets Labeling Crops”* accepted in **Scientific Data** (Nature Publishing Group).  
+* **May 2025** Paper *“Helmets Labeling Crops”* accepted in **Scientific Data** (Nature Publishing Group).  
   Introduces the Kenya Crop Type Dataset created via helmet-mounted cameras and deep learning.
 
-* **August 2024** - Started my PhD in Computer Science at **Arizona State University**.
+* **August 2024** Started my PhD in Computer Science at **Arizona State University**.
 
-* **May 2024** — Defended MS thesis *“Yuksel Splines for Probabilistic Sequence Prediction”* at **ASU**. 
+* **May 2024** Defended MS thesis *“Yuksel Splines for Probabilistic Sequence Prediction”* at **ASU**. 
   Graduated from Masters with a 4.0 GPA.
 
-* **March 2023** — Published *“HEVC based tampered video database development for forensic investigation”* in **Multimedia Tools and Applications (Springer)**.
+* **March 2023** Published *“HEVC based tampered video database development for forensic investigation”* in **Multimedia Tools and Applications (Springer)**.
 
-* **August 2022** - Started my Masters in Computer Science (Big Data Systems) at **Arizona State University**.
+* **August 2022** Started my Masters in Computer Science (Big Data Systems) at **Arizona State University**.
 
-* **May 2022** - Graduated from **NSIT (now NSUT), University of Delhi** with a Bachelor's in Computer Engineering.
+* **May 2022** Graduated from **NSIT (now NSUT), University of Delhi** with a Bachelor's in Computer Engineering.
